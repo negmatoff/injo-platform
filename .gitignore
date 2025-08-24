@@ -81,8 +81,7 @@ jspm_packages/
 .vscode-test/
 
 # Prisma migrations and generated files
-.prisma/
-.prisma/migrations/**/migration.sql
+prisma/migrations/**/*.sql
 
 # OS generated files
 .DS_Store
